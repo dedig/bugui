@@ -1,0 +1,9 @@
+('C:\\Users\\dedign2\\Desktop\\buGUI\\dist\\guiBug.exe',
+ True,
+ False,
+ 'bug.ico',
+ None,
+ [],
+ None,
+ False,
+ 1436285393L)
